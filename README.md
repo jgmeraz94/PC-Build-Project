@@ -1,10 +1,10 @@
-# PC-Build-Project
+# Personal PC Projects
 Personal projects involving PC assembly, hardware troubleshooting, and system restoration.
 
 ## Overview
 This repository documents my personal experience building, troubleshooting, and maintaining desktop computers. These hands-on projects have helped develop my skills in hardware compatibility, OS installation, and system optimization.
 
-## Build 1: Gaming/Desktop Workstation
+## Building a PC: Gaming/Desktop Workstation
 - Specs: Intel i7 9700K, 2070 Nvidia RTX, 1tb SSD, 4tb HDD, 32GB DDR4 RAM, Corsair AIO, 850W gold rated moduler PSU, ASROCK Mobo, Windows 10 
 - 
 - Tasks:
@@ -31,7 +31,7 @@ This repository documents my personal experience building, troubleshooting, and 
 - Importance of thermal management and component placement
 - How driver updates directly affect performance and stability
 
-## Build 2: Family PC Repair
+## PC troubleshoot and repair: Family PC Repair
 ### Overview
 This entry documents my process troubleshooting and resolving a hardware issue on a family member's non-functioning desktop PC. The system would shut off during boot, which required a step-by-step analysis of potential hardware faults and referencing motherboard diagnostics to isolate the issue.
 
